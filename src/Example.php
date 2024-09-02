@@ -1,6 +1,6 @@
 <?php
 
-namespace Oscmarb\Template;
+namespace VeraB\Template;
 
 final class Example
 {

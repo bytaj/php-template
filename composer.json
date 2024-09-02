@@ -1,12 +1,12 @@
 {
-  "name": "oscmarb/php-tempalte",
+  "name": "bytaj/php-tempalte",
   "type": "library",
-  "homepage": "https://github.com/oscmarb/php-template",
+  "homepage": "https://github.com/bytaj/php-template",
   "license": "MIT",
   "authors": [
     {
-      "name": "Óscar Martínez",
-      "email": "oscmarb@gmail.com"
+      "name": "Antonio José Vera Bravo",
+      "email": "theantoniojose97@gmail.com"
     }
   ],
   "require": {
@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Oscmarb\\Template\\": "src/"
+      "VeraB\\Template\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Oscmarb\\Template\\Tests\\": "tests/"
+      "VeraB\\Template\\Tests\\": "tests/"
     }
   },
   "config": {

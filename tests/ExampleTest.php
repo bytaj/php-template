@@ -1,9 +1,9 @@
 <?php
 
-namespace Oscmarb\Template\Tests;
+namespace VeraB\Template\Tests;
 
-use Oscmarb\Template\Example;
 use PHPUnit\Framework\TestCase;
+use VeraB\Template\Example;
 
 final class ExampleTest extends TestCase
 {
